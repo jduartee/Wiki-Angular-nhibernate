@@ -1,0 +1,9 @@
+D:\WIKI\WIKI.Service\bin\Debug\netstandard2.0\WIKI.Service.deps.json
+D:\WIKI\WIKI.Service\bin\Debug\netstandard2.0\WIKI.Service.dll
+D:\WIKI\WIKI.Service\bin\Debug\netstandard2.0\WIKI.Service.pdb
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.csprojAssemblyReference.cache
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.csproj.CoreCompileInputs.cache
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.AssemblyInfoInputs.cache
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.AssemblyInfo.cs
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.dll
+D:\WIKI\WIKI.Service\obj\Debug\netstandard2.0\WIKI.Service.pdb
